@@ -1,2 +1,4 @@
 # kinect_measure_height
-用kinect测量羽毛球发球高度
+用kinect获取深度数据
+用帧差法分离羽毛球和背景
+测量羽毛球发球高度
